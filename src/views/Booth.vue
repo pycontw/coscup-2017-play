@@ -86,10 +86,11 @@ export default {
       }
     },
     loadSponsor () {
-      var self = this
-      api.getSponsorList().then((res) => {
-        self.sponsorList = res
-      })
+      // var self = this
+      // api.getSponsorList().then((res) => {
+      //   self.sponsorList = res
+      // })
+      this.sponsorList = api.getSponsorList()
     }
   },
   mounted () {
