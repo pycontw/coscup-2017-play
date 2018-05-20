@@ -33,6 +33,7 @@ export default {
   .content
     padding: 2em
     color: #3b097a
+    font-size: 12px
   a
     color: #3b097a
   .fillet-label

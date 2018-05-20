@@ -124,6 +124,8 @@ export default {
   flex-direction: column
   [role="messages"]
     text-align: center
+    font-size: 12px
+    color: #434343
   [role="logo"]
     @media screen and (max-width: 454px) // must bigger than 454px for two column
       width: 70vw
@@ -133,8 +135,16 @@ export default {
     padding: 10px
     width: 350px
     height: 200px
-    margin: .5em auto
+    margin: 75px auto
+    &:before
+      content: ''
+      display: inline-block
+      vertical-align: middle
+      width: 0px
+      height: 100%
     img
+      display: inline-block
+      vertical-align: middle
       max-width: 100%
       max-height: 100%
       margin: 0 auto

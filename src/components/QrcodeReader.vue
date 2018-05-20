@@ -108,14 +108,15 @@ export default {
 
 <style lang="stylus">
   #camsource
-    background: rgb(254, 239, 209)
-    border: 2px solid rgb(254, 239, 209)
-    border-radius: 15px
-    padding: 10px
+    // background: rgb(254, 239, 209)
+    // border: 2px solid rgb(254, 239, 209)
+    // border-radius: 15px
+    // padding: 10px
     width: 80vw
     height: 60vw
     max-width: 320px
     max-height: 240px
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.17)
 
   #uploadField
     max-width: 300px
