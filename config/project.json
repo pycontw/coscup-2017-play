@@ -1,9 +1,9 @@
 {
   "serverUrl": "https://ccip.pycon.tw/",
-  "sponsorUrl": "https://coscup.org/2017-assets/json/sponsor.json",
+  "sponsorUrl": "https://raw.githubusercontent.com/chenhan1218/sponsor/master/sponsor.json",
   "title": {
-    "zh": "開源巔峰挑戰賽",
-    "en": "Booth Reward Activity"
+    "zh": "集點抽書",
+    "en": "Booth Checking"
   },
-  "confName": "PyconTW 2018"
+  "confName": "PyCon Taiwan 2018"
 }

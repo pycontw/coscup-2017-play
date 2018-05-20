@@ -2,7 +2,7 @@
   <div id='PuzzleList'>
     <div class="content--wrapper">
       <div class="subPage" :class="{hidden: hidden}">
-        <div class="subpage--title">
+        <div class="mobile subpage--title">
           <div class="title--text">{{ title.zh }}</div>
         </div>
         <div class="desktop subpage--title">
@@ -130,10 +130,11 @@ export default {
       })
     },
     loadSponsor () {
-      var self = this
-      api.getSponsorList().then((res) => {
-        self.sponsorList = res
-      })
+      // var self = this
+      // api.getSponsorList().then((res) => {
+      //   self.sponsorList = res
+      // })
+      this.sponsorList = api.getSponsorList()
     }
   },
   beforeMount () {
@@ -176,8 +177,8 @@ export default {
   display: flex
   flex-direction: column
   min-height: 100vh
-  .subPage.hidden + .content
-    margin-top: 3rem
+  // .subPage.hidden + .content
+  //   margin-top: 3rem
   [role="chips"]
     display: flex
     justify-content: space-between
@@ -193,5 +194,6 @@ export default {
       @media screen and (min-width: 1024px)
         min-width: 25%
       padding: 0 .5em
+      margin: 2em 0em
 
 </style>

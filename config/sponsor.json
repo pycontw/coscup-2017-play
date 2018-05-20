@@ -1,0 +1,116 @@
+[{
+    "name": {
+        "zh": "白金級",
+        "en": "Platinum Level"
+    },
+    "data": [{
+        "level": "1",
+        "place": "1",
+        "logolink": "https://gandi.net",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/gandi/Gandi.net_Logo.svg",
+        "name": {
+            "zh": "Gandi.net",
+            "en": "Gandi.net"
+        },
+        "intro": {
+            "zh": "Gandi.net 是域名註冊商、SSL 驗證機構與雲端主機提供者，成立於 1996 年，可提供超過 700 種域名。在台灣成立管地有限公司已超過三年，提供台灣發票與中文客服。支持 Open Source 軟體與社群。",
+            "en": "GANDI.net was one of the first domain name registrars approved by ICANN for .COM, .NET, .ORG, .BIZ, .INFO, .NAME, .BE, .FR, .EU domains in France. We now offer over 600 top-level domains, and we continue to add more on a regular basis. At Gandi, we consider ourselves an ethical domain name registrar in an industry that has some 'grey' practices. We value our customers' rights and privacy above all else, and defend these wherever and whenever possible."
+        }
+    }]
+}, {
+    "name": {
+        "zh": "金級",
+        "en": "Gold Level"
+    },
+    "data": [{
+        "level": "2",
+        "place": "1",
+        "logolink": "https://www.esunbank.com.tw/bank/personal",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/%E7%8E%89%E5%B1%B1%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8C%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/e.sun_bank.svg",
+        "name": {
+            "zh": "玉山商業銀行股份有限公司",
+            "en": "E.SUN Commercial Bank"
+        },
+        "intro": {
+            "zh": "玉山是台灣最高的山，是清新的、是壯麗的，也是最美的。以玉山為名，我們的決心就寫在名字上，決心要經營一家最好的銀行，成為顧客最愛的銀行。玉山秉持誠信正直、清新專業，用心守護顧客託付的資產，致力創造顧客的價值與感動。",
+            "en": "E.SUN firmly believes that great vision and ambition bring great energy and success. Our operations are conducted with the highest standards of integrity, and our brand is built on exemplary professionalism. E.SUN's goal is to be the best bank for employees, customers, and to fulfill its corporate social responsibility to Taiwan and to the world."
+        }
+    }]
+}, {
+    "name": {
+        "zh": "銀級",
+        "en": "Silver Level"
+    },
+    "data": [{
+        "level": "3",
+        "place": "1",
+        "logolink": "http://www.appier.com/en/careers.html",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/appier/%E9%8A%801_Appier_logo%E7%94%A8%E6%96%BC%E7%99%BD%E5%BA%95_rv5xuFZ.svg",
+        "name": {
+            "zh": "沛星互動科技",
+            "en": "Appier"
+        },
+        "intro": {
+            "zh": "Appier是一家專注於人工智慧的科技公司，藉由開發各種人工智慧應用平台，協助企業解決最棘手的商業挑戰。成立於2012年的Appier是由一群充滿熱情的電腦科學家與資訊工程師所組成，技術團隊專長涵蓋人工智慧、資料分析與分散式系統等領域。Appier的總部設於台北，在新加坡、東京、大阪、吉隆坡、胡志明市、馬尼拉、香港、孟買、新德里、雅加達、首爾、雪梨與曼谷等亞洲14個市場設有據點，為超過1,000家知名品牌與代理商提供優質服務。",
+            "en": "Appier is a technology company which aims to provide artificial intelligence platforms to help enterprises solve their most challenging business problems. Appier was established in 2012 by a passionate team of computer scientists and engineers with expertise in AI, data analysis, distributed systems, and marketing. Appier serves over 1,000 global brands and agencies from offices in 14 markets across Asia, including Taipei, Singapore, Kuala Lumpur, Tokyo, Osaka, Sydney, Ho Chi Minh City, Manila, Hong Kong, Mumbai, New Delhi, Jakarta, Seoul, and Bangkok."
+        }
+    }, {
+        "level": "3",
+        "place": "2",
+        "logolink": "http://www.trendmicro.tw/tw/index.html",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/trend-micro/Trendmicro.svg",
+        "name": {
+            "zh": "趨勢科技",
+            "en": "Trend Micro"
+        },
+        "intro": {
+            "zh": "趨勢科技是全球雲端資安防護專家及領航者，為亞洲與台灣最大的純軟體公司，是第一家率先採用「機器學習」技術及時偵測和攔截攻擊病毒的全球資安品牌。台灣為全球研發基地，培育超過1,000位以上的工程師，負責研發全球超過3千萬名企業、家庭與個人用戶使用的最新及最完整的資訊安全核心技術及產品。趨勢科技用真實數據培育軟體人才，加速產業AI化，致力於實現更安全的數位及物聯網世界。",
+            "en": "For nearly 30 years, Trend Micro’s unwavering vision has been to make the world safe for exchanging digital information. Security is our entire focus, and it shows. This single-minded passion has inspired our innovations that keep up with the bad guys despite a changing IT landscape, riskier user behavior, and constantly evolving threats.\r\nThe depth of our experience remains unmatched. From the endpoint to the network to the cloud, we’ve got you covered with a connected threat defense recognized by analysts, customers, and industry gurus of all kinds."
+        }
+    }, {
+        "level": "3",
+        "place": "3",
+        "logolink": "https://kloudless.com",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/kloudless/kloudless_logo.svg",
+        "name": {
+            "zh": "kloudless",
+            "en": "kloudless"
+        },
+        "intro": {
+            "zh": "Kloudless的多種服務APIs和開發者工具，可協助企業或開發者簡便地整合多種服務和資料來源",
+            "en": "Kloudless offers APIs and developer tools that help businesses easily build integrations to software applications and data sources"
+        }
+    }]
+}, {
+    "name": {
+        "zh": "特殊贊助",
+        "en": "Special Level"
+    },
+    "data": [{
+        "level": "4",
+        "place": "1",
+        "logolink": "https://www.tenlong.com.tw",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/%E5%A4%A9%E7%93%8F%E8%B3%87%E8%A8%8A%E5%9C%96%E6%9B%B8/%E5%A4%A9%E7%93%8F%E8%B3%87%E8%A8%8A%E5%9C%96%E6%9B%B8logo.svg",
+        "name": {
+            "zh": "天瓏資訊圖書",
+            "en": "Tenlong Computer Book Co, Ltd."
+        },
+        "intro": {
+            "zh": "天瓏資訊提供平價專業電腦資訊書籍販售、團購優惠、公司機關報價服務，包括繁體中文、簡體中文、外文原文書籍代訂服務，目前正在拓展實體課程、講座活動、技術交流分享聚會中，有興趣讀者、講者、講師歡迎與我們聯繫。",
+            "en": "Sell computer science books, provide discount for companies and order books included Traditional Chinese, Traditional Chinese and others foreign books."
+        }
+    }, {
+        "level": "4",
+        "place": "2",
+        "logolink": "http://wolftea.com",
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/%E7%90%85%E8%8C%B6/wolftea_LtcGl1S.svg",
+        "name": {
+            "zh": "琅茶",
+            "en": "wolftea"
+        },
+        "intro": {
+            "zh": "「活在當下」的意義是什麼呢？琅茶相信，是仔細欣賞、品味每個「相遇」—— 時光不逆流，深刻的瞬間砌成真實生活，這樣的哲學，讓我們從一杯單品茶開始，舉杯敬賀「當下」的香甘韻，明辨舌尖心頭的幸運，感受「此刻此地・獨一無二」的美好滋味。",
+            "en": "Provide a good tea that is an unique, present taste."
+        }
+    }]
+}]

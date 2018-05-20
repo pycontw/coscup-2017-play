@@ -26,12 +26,15 @@ export default {
   justify-content: center
   align-items: flex-end
   flex-grow: 1
-  background-size: cover
-  background-repeat: no-repeat
-  background-image: url('../assets/footer.png')
-  background-position: center top
+  // background-size: cover
+  // background-repeat: no-repeat
+  // background-image: url('../assets/footer.png')
+  // background-position: center top
   .content
     padding: 2em
+    color: #3b097a
+  a
+    color: #3b097a
   .fillet-label
     background-color: rgba(0, 0, 0, .5)
 </style>
