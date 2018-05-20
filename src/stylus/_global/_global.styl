@@ -17,12 +17,11 @@ body
     display: flex
     flex-direction: column
     justify-content: center
-    color: white
     &.hidden
       display: none
 
     @media screen and (max-width: $mobile-screen-width)
-      min-height: 150px
+      min-height: 75px
       justify-content: flex-start
     .mobile.subpage--title
       display: none
@@ -30,6 +29,7 @@ body
       background-image: linear-gradient(104deg, #3b097b, #192660)
       flex-direction: column
       justify-content: center
+      color: white
       @media screen and (max-width: $mobile-screen-width)
         display: flex
       .title--text

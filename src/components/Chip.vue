@@ -41,7 +41,7 @@ export default {
     background: #fff
     border: 2px solid #fff
     border-radius: 5px
-    padding: 50px
+    padding: 10px
     width: 195px
     height: 130px
     margin: .5em auto
@@ -51,6 +51,8 @@ export default {
     // background-repeat: no-repeat
     // background-size: 120% 120%
     // background-position: center
+    @media screen and (max-width: 454px)
+      padding: 50px
     [role="seal"]
       display: none
     &.active

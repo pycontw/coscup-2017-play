@@ -185,10 +185,12 @@ export default {
     align-items: center
     flex-wrap: wrap
     padding: 0 1em
+    margin-top: 110px
     @media screen and (max-width: 666px) and (orientation: landscape) // smaller than iPhone 6
       padding: 0 3em
     @media screen and (max-width: 454px) // must bigger than 454px for two column
       margin: 0 auto
+      margin-top: 110px
       display: block
     > div
       @media screen and (min-width: 1024px)
