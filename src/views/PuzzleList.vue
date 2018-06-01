@@ -139,8 +139,13 @@ export default {
   },
   beforeMount () {
     var query = {}
+    var isIOS = navigator.userAgent.match(/iPhone|iPad|iPod/i)
     if (window.location.search.length > 0 && (query = Util.parseQueryParams(window.location.search))) {
-      this.token = query.token
+      if (isIOS) {
+        this.token = Util.sha1Gen(query.token)
+      } else {
+        this.token = query.token
+      }
       this.hidden = query.mode === 'app'
       this.loadPuzzle()
     }
